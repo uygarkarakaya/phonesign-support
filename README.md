@@ -2,7 +2,7 @@
 
 Phone Sign turns your iPhone or iPad into an LED sign you can hold up anywhere: at a concert, in a crowd, at the airport or in a shop window.
 
-**Contact:** [uygarkarakaya@gmail.com](mailto:uygarkarakaya@gmail.com?subject=Phone%20Sign) · **Privacy:** [Privacy Policy](privacy)
+**Contact:** [uyjogar@outlook.com](mailto:uyjogar@outlook.com?subject=Phone%20Sign) · **Privacy:** [Privacy Policy](privacy)
 
 [Türkçe](#türkçe) · [Español](#español)
 
@@ -40,7 +40,7 @@ It flips the full-screen sign so it reads correctly through a car window. Turn i
 - Update to the latest version from the App Store.
 - If an animation stops, close full screen and open it again.
 - If Pro doesn't show up after buying, use **Restore purchases** (Settings › Upgrade to Pro).
-- Still stuck? Email [uygarkarakaya@gmail.com](mailto:uygarkarakaya@gmail.com?subject=Phone%20Sign) with your iPhone or iPad model and iOS version.
+- Still stuck? Email [uyjogar@outlook.com](mailto:uyjogar@outlook.com?subject=Phone%20Sign) with your iPhone or iPad model and iOS version.
 
 ---
 
@@ -48,7 +48,7 @@ It flips the full-screen sign so it reads correctly through a car window. Turn i
 
 Phone Sign, iPhone'unu ya da iPad'ini her yerde havaya kaldırabileceğin bir LED tabelaya çevirir.
 
-**İletişim:** [uygarkarakaya@gmail.com](mailto:uygarkarakaya@gmail.com?subject=Phone%20Sign) · **Gizlilik:** [Gizlilik Politikası](privacy#türkçe)
+**İletişim:** [uyjogar@outlook.com](mailto:uyjogar@outlook.com?subject=Phone%20Sign) · **Gizlilik:** [Gizlilik Politikası](privacy#türkçe)
 
 **Tabelamı nasıl gösteririm?**
 Yazını yaz, görünümünü seç, **Tabelayı göster**'e ya da önizlemeye dokun. Kapatmak için ekrana dokunman yeterli.
@@ -77,7 +77,7 @@ Flaş tüm ekranı saniyede en fazla 3 kez yakıp söndürür. Işığa duyarlı
 
 Phone Sign convierte tu iPhone o iPad en un cartel LED para levantarlo donde quieras.
 
-**Contacto:** [uygarkarakaya@gmail.com](mailto:uygarkarakaya@gmail.com?subject=Phone%20Sign) · **Privacidad:** [Política de privacidad](privacy#español)
+**Contacto:** [uyjogar@outlook.com](mailto:uyjogar@outlook.com?subject=Phone%20Sign) · **Privacidad:** [Política de privacidad](privacy#español)
 
 **¿Cómo muestro mi cartel?**
 Escribe tu mensaje, elige un estilo y toca **Mostrar cartel** o la vista previa. Toca la pantalla para cerrar.
