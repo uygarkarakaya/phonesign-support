@@ -18,7 +18,7 @@ Phone Sign does not collect, store or share any personal data.
 
 **Changes.** If this policy changes, the new version will be posted on this page with a new date.
 
-**Contact:** [uyjogar@outlook.com](mailto:uyjogar@outlook.com?subject=Phone%20Sign%20Privacy)
+**Contact:** [uygarkarakaya@gmail.com](mailto:uygarkarakaya@gmail.com?subject=Phone%20Sign%20Privacy)
 
 ---
 
@@ -34,7 +34,7 @@ Phone Sign hiçbir kişisel veri toplamaz, saklamaz ya da paylaşmaz.
 - Tabelanı video olarak dışa aktarıp kaydetmeyi seçersen, uygulama yalnızca o videoyu Fotoğraflar'a eklemek için izin ister. Fotoğraflarını göremez ve okuyamaz.
 - Uygulama internetsiz çalışır; yalnızca satın alma, satın alımları geri yükleme ve App Store puanlaması için Apple'a bağlanır.
 
-**İletişim:** [uyjogar@outlook.com](mailto:uyjogar@outlook.com?subject=Phone%20Sign%20Privacy)
+**İletişim:** [uygarkarakaya@gmail.com](mailto:uygarkarakaya@gmail.com?subject=Phone%20Sign%20Privacy)
 
 ---
 
@@ -50,4 +50,4 @@ Phone Sign no recopila, guarda ni comparte ningún dato personal.
 - Si exportas un cartel como video y eliges guardarlo, la app solo pide permiso para añadir ese video a Fotos. No puede ver ni leer tus fotos.
 - La app funciona sin conexión; solo se conecta con Apple para compras, restaurar compras y valoraciones en el App Store.
 
-**Contacto:** [uyjogar@outlook.com](mailto:uyjogar@outlook.com?subject=Phone%20Sign%20Privacy)
+**Contacto:** [uygarkarakaya@gmail.com](mailto:uygarkarakaya@gmail.com?subject=Phone%20Sign%20Privacy)
